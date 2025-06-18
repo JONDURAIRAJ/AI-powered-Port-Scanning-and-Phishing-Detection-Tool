@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-06-18_07-01-07",
+  "target_ip": "8.8.8.8",
+  "open_ports": [
+    443
+  ],
+  "banners": {
+    "443": ""
+  },
+  "geo_info": {
+    "IP": "8.8.8.8",
+    "City": "Mountain View",
+    "Region": "California",
+    "Country": "US",
+    "ISP": "AS15169 Google LLC",
+    "Location": "37.4056,-122.0775"
+  },
+  "phishing_check": {
+    "url": "https://www.google.com/",
+    "is_phishing": false,
+    "reasons": []
+  }
+}
